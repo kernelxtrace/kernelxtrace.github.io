@@ -1,0 +1,14 @@
+[book]
+title = "Kernel x Trace"
+authors = ["Kernel x Trace <kernelxtrace@gmail.com>"]
+language = "ko"
+src = "src"
+
+[output.html]
+default-theme = "rust"
+git-repository-url = "https://github.com/kernelxtrace/kernelxtrace.github.io"
+site-url = "https://kernelxtrace.github.io"
+
+[output.html.fold]
+enable = true
+level = 0

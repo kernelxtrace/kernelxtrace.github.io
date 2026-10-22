@@ -1,0 +1,8 @@
+# mdBook 빌드 결과물 폴더
+/book
+
+# OS 및 시스템 부산물
+Thumbs.db
+
+# IDE 설정
+.idea/
